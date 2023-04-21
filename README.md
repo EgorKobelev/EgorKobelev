@@ -6,9 +6,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EgorKobelev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKobelev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##### contact me: 
-<a align="center"  href="https://t.me/IamOvechkin"><img height="12" src="https://w7.pngwing.com/pngs/966/241/png-transparent-white-paper-plane-illustration-telegram-logo-computer-icons-telegram-miscellaneous-blue-angle-thumbnail.png" alt="tg">&nbsp;Telegram</a><br/>
-<a align="center"  href="https://t.me/IamOvechkin"><img height="12" src="https://cdn-icons-png.flaticon.com/512/3938/3938067.png" alt="tg">&nbsp;VK</a><br/>
-<a align="center"  href="mailto:ovechkin_dima03@mail.ru"><img height="12" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="tg">&nbsp;Mail</a><br/>
+##### <h2>Contact me:</h2>: 
+<a align="center"  href="https://t.me/aricsy"><img height="16" src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png" alt="tg">&nbsp;Telegram</a><br/>
+<a align="center"  href="https://vk.com/aricsy"><img height="16" src="" alt="VK">&nbsp;VK</a><br/>
+<a align="center"  href="mailto:aricsybsn@gmail.com"><img height="16" src="https://e7.pngegg.com/pngimages/459/303/png-clipart-gmail-computer-icons-email-google-account-fort-ann-central-school-email-miscellaneous-angle.png" alt="gmail">&nbsp;Gmail</a><br/>
 
-<h2>Ready to learn something new!<h2>
+<h2>Ready to learn something new!</h2>
