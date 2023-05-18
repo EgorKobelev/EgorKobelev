@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EgorRyazanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EgorRyazanov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorKobelev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorRyazanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##### <h2>Contact me:</h2>
 <a align="center"  href="https://t.me/aricsy"><img height="16" src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png" alt="tg">&nbsp;Telegram</a><br/>
